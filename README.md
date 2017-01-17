@@ -11,7 +11,7 @@ Structure and templates for your next design project.
 ### 01. Research
 
 - Inspiration (competitor reviews, dribbble porn, etc.)
-- User and stakeholder interview transcripts.
+- User and stakeholder interviews.
 - Personas, empathy maps, scenarios.
 - Data from usability or A/B tests.
 
