@@ -31,7 +31,7 @@ Structure and templates for your next design project.
 - Photography documenting the process (team discussions, workshops, etc.).
 - Presentations delivered to colleagues/clients (slides and recordings).
 - Protocasts, video walkthroughs, recorded demos, etc.
-- Portfolio work (notes for case study, in-device mockups, etc.)
+- Portfolio notes (case study outline, in-device mockups, etc.)
 
 ### 05. Export
 
