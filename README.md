@@ -2,7 +2,7 @@
 
 Folder structure and templates for your next product design project.
 
-### Kickoff
+### Incoming
 
 - Incoming documentation (plan, design brief, requirements)
 - Available design materials (e.g., brand guidelines).
