@@ -19,7 +19,7 @@ Structure and templates for your next product design project.
 
 - Snaps of whiteboard scribbles, paper sketches, etc.
 - Design assets (fonts, json data, images).
-- Wireframes.
+- Wireframes, wireflows.
 - Detailed designs.
 
 ### 03. Prototype
