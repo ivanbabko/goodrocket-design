@@ -10,10 +10,10 @@ Structure and templates for your next product design project.
 
 ### 01. Research
 
-- Inspiration (competitor reviews, dribbble porn, etc.)
 - User and stakeholder interviews.
 - Personas, empathy maps, scenarios.
-- Data from usability or A/B tests.
+- Inspiration (competitor reviews, dribbble porn, etc.)
+- Data from future usability or A/B tests.
 
 ### 02. Design
 
