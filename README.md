@@ -1,6 +1,6 @@
 # Goodrocket Design
 
-Structure and templates for your next design project.
+Structure and templates for your next product design project.
 
 ### 00. Kickoff
 
