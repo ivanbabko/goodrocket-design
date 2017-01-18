@@ -4,7 +4,7 @@ Folder structure and templates for your next product design project.
 
 ### Incoming
 
-- Incoming documentation (plan, design brief, requirements)
+- Initial documentation (plan, requirements, etc.)
 - Available design materials (e.g., brand guidelines).
 - Snapshot of current design (if there is one) for the record.
 
@@ -13,14 +13,15 @@ Folder structure and templates for your next product design project.
 - User and stakeholder interviews.
 - Personas, empathy maps, scenarios.
 - Inspiration (competitor reviews, dribbble porn, etc.)
-- Data from future usability or A/B tests.
+- Data from usability tests and A/B experiments.
 
 ### Design
 
 - Snaps of whiteboard scribbles, paper sketches, etc.
-- Design assets (fonts, json data, images).
 - Wireframes, wireflows.
+- Design assets (fonts, json data, images).
 - Detailed designs.
+- Styleguide, component library.
 
 ### Prototype
 
@@ -31,8 +32,8 @@ Folder structure and templates for your next product design project.
 - Photography documenting the process (team discussions, workshops, etc.).
 - Presentations delivered to colleagues/clients (slides and recordings).
 - Protocasts, video walkthroughs, recorded demos, etc.
-- Portfolio notes (case study outline, in-device mockups, etc.)
+- Notes and assets for portfolio (blog post or case study outline, pretty in-device mockups, etc.)
 
 ### Export
 
-- Graphical assets ready for hand-off.
+- Graphical assets for engineering.
