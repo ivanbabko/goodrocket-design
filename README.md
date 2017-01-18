@@ -6,7 +6,7 @@ Folder structure and templates for your next product design project.
 
 - Incoming documentation (plan, design brief, requirements)
 - Available design materials (e.g., brand guidelines).
-- Snapshot of current design (if there is one).
+- Snapshot of current design (if there is one) for the record.
 
 ### Research
 
