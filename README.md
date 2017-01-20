@@ -5,7 +5,7 @@ Folder structure and templates for your next product design project.
 ## Included templates
 
 - ***Coming soon***: UX checklists and tempates for common research methods.
-- ***Coming soon***: Sketch file with basic styles and symbols.
+- ***Coming soon***: Sketch file with base styles and reusable symbols.
 
 ## Folder structure
 
