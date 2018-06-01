@@ -2,10 +2,12 @@
 
 Sketch design system and folder structure for your next product design project.
 
-## Included templates
+## Sketch design system
 
-- Sketch file with base styles and reusable nested symbols.
-- ***Coming soon***: Cheat sheet for user research.
+- Well organized master sketch file ensuring good project scalability.
+- Contains customizable component library based on nested symbol overrides.
+- Comes with multiple text styles that can be easily redefined.
+- Includes Styleguide page and several layout examples.
 
 ## Folder structure
 
