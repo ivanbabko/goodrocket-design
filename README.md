@@ -11,6 +11,10 @@ Sketch design system and folder structure for your next product design project.
 
 ## Folder structure
 
+For increased productivity, I recommend using this folder structure together with Alfred and TemplatesManager workflow. 
+
+.images/grd_alfred.gif
+
 ### Assets
 
 - Design assets (fonts, json data, photography, etc.)
