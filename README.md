@@ -9,11 +9,13 @@ Sketch design system and folder structure for your next product design project.
 - Comes with multiple text styles that can be easily redefined.
 - Includes Styleguide page and several layout examples.
 
+---
+
 ## Folder structure
 
 For increased productivity, I recommend using this folder structure together with Alfred and TemplatesManager workflow. 
 
-.images/grd_alfred.gif
+![Using Alfred with Goodrocket Design](.images/grd_alfred.gif)
 
 ### Assets
 
