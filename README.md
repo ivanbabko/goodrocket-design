@@ -13,9 +13,11 @@ Sketch design system and folder structure for your next product design project.
 
 ## Folder structure
 
-For increased productivity, I recommend using this folder structure together with Alfred and TemplatesManager workflow. 
+For increased productivity, I recommend using this folder structure together with ![Alfred](https://www.alfredapp.com/) and ![TemplatesManager workflow](http://www.packal.org/workflow/templatesmanager) or similar automation setup. 
 
 ![Using Alfred with Goodrocket Design](.images/grd_alfred.gif)
+
+The project consists of the following folders:
 
 ### Assets
 
