@@ -1,46 +1,36 @@
 # Goodrocket Design
 
-Folder structure and templates for your next product design project.
+Sketch design system and folder structure for your next product design project.
 
 ## Included templates
 
-- ***Coming soon***: UX checklists and tempates for common research methods.
-- ***Coming soon***: Sketch file with base styles and reusable symbols.
+- Sketch file with base styles and reusable nested symbols.
+- ***Coming soon***: Cheat sheet for user research.
 
 ## Folder structure
 
-### Incoming
+### 00 Assets
 
-- Initial documentation (plan, requirements, etc.)
-- Available design materials (e.g., brand guidelines).
+- Design assets (fonts, json data, photography, etc.)
+- Available design materials (e.g., logos, brand guidelines).
 - Snapshot of current design (if there is one) for the record.
 
-### Research
+### 01 Inspiration
 
-- User and stakeholder interviews.
-- Personas, empathy maps, scenarios.
-- Inspiration (competitor reviews, dribbble porn, etc.)
-- Data from usability tests and A/B experiments.
+- Competitor reviews, dribbble shots, etc.
 
-### Design
+### 02 Design
 
 - Snaps of whiteboard scribbles, paper sketches, etc.
-- Wireframes, wireflows.
-- Design assets (fonts, json data, images).
+- Wireframes & User flows
 - Detailed designs.
 - Styleguide, component library.
 
-### Prototype
+### 03 Prototype
 
 - Framer projects, InVision exports, handcoded HTML/CSS prototypes.
+- Video recordings of the prototypes.
 
-### Show
-
-- Photography documenting the process (team discussions, workshops, etc.).
-- Presentations delivered to colleagues/clients (slides and recordings).
-- Protocasts, video walkthroughs, recorded demos, etc.
-- Notes and assets for portfolio (blog post or case study outline, pretty in-device mockups, etc.)
-
-### Export
+### 04 Export
 
 - Graphical assets for engineering.
