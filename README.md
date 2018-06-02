@@ -4,10 +4,22 @@ Sketch design system and folder structure for your next product design project.
 
 ## Sketch design system
 
-- Well organized master sketch file ensuring good project scalability.
-- Contains customizable component library based on nested symbol overrides.
-- Comes with multiple text styles that can be easily redefined.
-- Includes Styleguide page and several layout examples.
+**Well organized master sketch file ensuring good project scalability**
+
+![Symbols & Text Styles](.images/grd_symbols_styles.gif)
+
+**Contains customizable component library based on nested symbol overrides**
+
+![Symbol overrides](.images/grd_overrides.gif)
+
+**Comes with multiple text styles that can be easily redefined**
+
+![Symbol overrides](.images/grd_text_styles.gif)
+
+**Includes Styleguide page and several layout examples.**
+
+![Styleguide](.images/grd_styleguide.gif)
+
 
 ---
 
