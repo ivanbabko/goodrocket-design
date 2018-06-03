@@ -2,7 +2,9 @@
 
 Sketch design system and folder structure for your next product design project.
 
-![https://github.com/ivanbabko/goodrocket-design/archive/master.zip](.images/grd_hero.png)
+<a href="https://github.com/ivanbabko/goodrocket-design/archive/master.zip">
+  <img src=".images/grd_hero.png" alt="Goodrocket Design"/>
+</a>
 
 ## Sketch design system
 
