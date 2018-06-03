@@ -2,6 +2,8 @@
 
 Sketch design system and folder structure for your next product design project.
 
+![https://github.com/ivanbabko/goodrocket-design/archive/master.zip](.images/grd_hero.png)
+
 ## Sketch design system
 
 ### 1. Well organized master sketch file ensuring good project scalability
